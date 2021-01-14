@@ -1,0 +1,191 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+[error] [2020-08-27 12:34:59.400072] Could not load <commons.library_api.Argument object at 0x7f8d31950b00>
+[error] [2020-08-27 12:34:59.400502] Could not load <commons.library_api.Argument object at 0x7f8d31950f28>
+[error] [2020-08-27 12:34:59.401870] Could not load <commons.library_api.Argument object at 0x7f8d3195b6d8>
+[info] [2020-08-27 12:34:59.441067] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+[debug] [2020-08-27 12:35:33.914435] Done. 400000 words loaded!
+[info] [2020-08-27 12:35:34.023270] Unknown word starwars: break into star and wars
+[info] [2020-08-27 12:35:34.023489] Unknown word recode: break into re and code
+[info] [2020-08-27 12:35:34.023607] Unknown word lag: break into l and ag
+[info] [2020-08-27 12:35:34.023720] Unknown word rowwise: break into row and wise
+[info] [2020-08-27 12:35:34.023830] Unknown word rename: break into re and name
+[info] [2020-08-27 12:35:34.023959] Unknown word assign: break into as and sign
+[info] [2020-08-27 12:35:34.024060] Unknown word transpose: break into trans and pose
+[info] [2020-08-27 12:35:34.024173] Unknown word markdown: break into mark and down
+[info] [2020-08-27 12:35:34.024286] Unknown word feather: break into feat and her
+[info] [2020-08-27 12:35:34.024444] Unknown word pickle: break into pick and le
+[info] [2020-08-27 12:35:34.024564] Unknown word json: break into j and son
+[info] [2020-08-27 12:35:34.024692] Unknown word bfill: break into b and fill
+[info] [2020-08-27 12:35:34.024774] Unknown word ffill: break into f and fill
+[info] [2020-08-27 12:35:34.024952] Unknown word boxplot: break into box and plot
+[info] [2020-08-27 12:35:34.025046] Unknown word kde: break into k and de
+[info] [2020-08-27 12:35:34.025204] Unknown word timestamp: break into time and stamp
+[info] [2020-08-27 12:35:34.025308] Unknown word tshift: break into t and shift
+[info] [2020-08-27 12:35:34.025400] Unknown word resample: break into re and sample
+[info] [2020-08-27 12:35:34.025491] Unknown word asof: break into as and of
+[info] [2020-08-27 12:35:34.025598] Unknown word xarray: break into x and array
+[info] [2020-08-27 12:35:34.025722] Unknown word swaplevel: break into swap and level
+[info] [2020-08-27 12:35:34.025819] Unknown word nsmallest: break into n and smallest
+[info] [2020-08-27 12:35:34.025901] Unknown word nlargest: break into n and largest
+[info] [2020-08-27 12:35:34.025990] Unknown word reorder: break into re and order
+[info] [2020-08-27 12:35:34.026084] Unknown word droplevel: break into drop and level
+[info] [2020-08-27 12:35:34.026176] Unknown word fillna: break into fill and na
+[info] [2020-08-27 12:35:34.026236] Unknown word dropna: break into drop and na
+[info] [2020-08-27 12:35:34.026328] Unknown word reset: break into re and set
+[info] [2020-08-27 12:35:34.026388] Unknown word rename: break into re and name
+[info] [2020-08-27 12:35:34.026467] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:35:34.026526] Unknown word rename: break into re and name
+[info] [2020-08-27 12:35:34.026591] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:35:34.026729] Unknown word prefix: break into pre and fix
+[info] [2020-08-27 12:35:34.026820] Unknown word nunique: break into n and unique
+[info] [2020-08-27 12:35:34.026938] Unknown word prod: break into p and rod
+[info] [2020-08-27 12:35:34.027038] Unknown word min: break into m and in
+[info] [2020-08-27 12:35:34.027234] Unknown word groupby: break into group and by
+[info] [2020-08-27 12:35:34.027345] Unknown word applymap: break into apply and map
+[info] [2020-08-27 12:35:34.027485] Unknown word radd: break into r and add
+[info] [2020-08-27 12:35:34.027573] Unknown word rsub: break into r and sub
+[info] [2020-08-27 12:35:34.027680] Unknown word div: break into d and iv
+[info] [2020-08-27 12:35:34.027811] Unknown word isin: break into is and in
+[info] [2020-08-27 12:35:34.027922] Unknown word lookup: break into look and up
+[info] [2020-08-27 12:35:34.028054] Unknown word iat: break into i and at
+[info] [2020-08-27 12:35:34.028145] Unknown word notna: break into not and na
+[info] [2020-08-27 12:35:34.028202] Unknown word isna: break into is and na
+[info] [2020-08-27 12:35:34.028289] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:35:34.028366] Unknown word astype: break into as and type
+[info] [2020-08-27 12:35:34.028442] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:35:34.028506] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:35:34.028605] Unknown word sortlevel: break into sort and level
+[info] [2020-08-27 12:35:34.028672] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:35:34.028750] Unknown word pad: break into p and ad
+[info] [2020-08-27 12:35:34.028829] Unknown word backfill: break into back and fill
+[info] [2020-08-27 12:35:34.028897] Unknown word irow: break into i and row
+[info] [2020-08-27 12:35:34.028975] Unknown word iget: break into i and get
+[info] [2020-08-27 12:35:34.029044] Unknown word ftype: break into f and type
+[info] [2020-08-27 12:35:34.029097] Unknown word dtype: break into d and type
+[info] [2020-08-27 12:35:34.029149] Unknown word ftypes: break into f and types
+number of word types: 295, number of word types w/ frequency >= 1: 295
+[debug] [2020-08-27 12:35:34.068828] 299 out of 299 words in the vocab are also found in the pretrained embedding
+[debug] [2020-08-27 12:35:34.070423] Generating representation matrix complete!
+[info] [2020-08-27 12:35:35.079767] pandas.DataFrame.groupby
+[debug] [2020-08-27 12:35:35.093121] Evaluating... lambda x: x.groupby(by=['id', "''"])
+[debug] [2020-08-27 12:35:35.094598] Evaluating... lambda x: x.groupby(by=['id'])
+[debug] [2020-08-27 12:35:35.108860] Evaluating... lambda x: x.groupby(by=['id', 'lat'])
+[debug] [2020-08-27 12:35:35.115678] Evaluating... lambda x: x.groupby(by=['id', 'input1'])
+[debug] [2020-08-27 12:35:35.116969] Evaluating... lambda x: x.groupby(by=['id', 'name'])
+[debug] [2020-08-27 12:35:35.128004] Evaluating... lambda x: x.groupby(by=['id', 'dock_count'])
+[debug] [2020-08-27 12:35:35.133887] Evaluating... lambda x: x.groupby(by=['id', 'long'])
+[debug] [2020-08-27 12:35:35.139908] Evaluating... lambda x: x.groupby(by=['id', 'city'])
+[debug] [2020-08-27 12:35:35.151953] Evaluating... lambda x: x.groupby(by=['id', 'installation_date'])
+[debug] [2020-08-27 12:35:35.161397] Evaluating... lambda x: x.groupby(by=['installation_date', 'long'])
+[debug] [2020-08-27 12:35:35.169544] Evaluating... lambda x: x.groupby(by=['name', 'long'])
+[debug] [2020-08-27 12:35:35.180959] Evaluating... lambda x: x.groupby(by=['dock_count', 'long'])
+[debug] [2020-08-27 12:35:35.186450] Evaluating... lambda x: x.groupby(by=['input1', 'long'])
+[debug] [2020-08-27 12:35:35.187562] Evaluating... lambda x: x.groupby(by=['city', 'long'])
+[debug] [2020-08-27 12:35:35.195143] Evaluating... lambda x: x.groupby(by=['lat', 'long'])
+[debug] [2020-08-27 12:35:35.200534] Evaluating... lambda x: x.groupby(by=["''", 'long'])
+[debug] [2020-08-27 12:35:35.201640] Evaluating... lambda x: x.groupby(by=['input1', 'installation_date'])
+[debug] [2020-08-27 12:35:35.202708] Evaluating... lambda x: x.groupby(by=['input1', 'dock_count'])
+[debug] [2020-08-27 12:35:35.203745] Evaluating... lambda x: x.groupby(by=['input1', 'lat'])
+[debug] [2020-08-27 12:35:35.204770] Evaluating... lambda x: x.groupby(by=['input1', 'city'])
+[debug] [2020-08-27 12:35:35.205933] Evaluating... lambda x: x.groupby(by=['input1', 'name'])
+[debug] [2020-08-27 12:35:35.207474] Evaluating... lambda x: x.groupby(by=['input1', 'id'])
+[debug] [2020-08-27 12:35:35.208659] Evaluating... lambda x: x.groupby(by=['installation_date', 'name'])
+[debug] [2020-08-27 12:35:35.217841] Evaluating... lambda x: x.groupby(by=['long', 'name'])
+[debug] [2020-08-27 12:35:35.226622] Evaluating... lambda x: x.groupby(by=['city', 'name'])
+[debug] [2020-08-27 12:35:35.233532] Evaluating... lambda x: x.groupby(by=["''", 'name'])
+[debug] [2020-08-27 12:35:35.234666] Evaluating... lambda x: x.groupby(by=['dock_count', 'name'])
+[debug] [2020-08-27 12:35:35.246276] Evaluating... lambda x: x.groupby(by=['lat', 'name'])
+[debug] [2020-08-27 12:35:35.254484] Evaluating... lambda x: x.groupby(by=['lat', 'dock_count'])
+[debug] [2020-08-27 12:35:35.261174] Evaluating... lambda x: x.groupby(by=['lat', 'installation_date'])
+[debug] [2020-08-27 12:35:35.269337] Evaluating... lambda x: x.groupby(by=['lat', 'id'])
+[debug] [2020-08-27 12:35:35.277897] Evaluating... lambda x: x.groupby(by=['lat', 'input1'])
+[debug] [2020-08-27 12:35:35.279196] Evaluating... lambda x: x.groupby(by=['lat', 'city'])
+[debug] [2020-08-27 12:35:35.285826] Evaluating... lambda x: x.groupby(by=['long', 'dock_count'])
+[debug] [2020-08-27 12:35:35.292593] Evaluating... lambda x: x.groupby(by=['city', 'dock_count'])
+[debug] [2020-08-27 12:35:35.299375] Evaluating... lambda x: x.groupby(by=["''", 'dock_count'])
+[debug] [2020-08-27 12:35:35.300533] Evaluating... lambda x: x.groupby(by=['name', 'dock_count'])
+[debug] [2020-08-27 12:35:35.311502] Evaluating... lambda x: x.groupby(by=['installation_date', 'dock_count'])
+[debug] [2020-08-27 12:35:35.319940] Evaluating... lambda x: x.groupby(by=["''", 'lat'])
+[debug] [2020-08-27 12:35:35.321046] Evaluating... lambda x: x.groupby(by=["''", 'id'])
+[debug] [2020-08-27 12:35:35.322094] Evaluating... lambda x: x.groupby(by=["''", 'installation_date'])
+[debug] [2020-08-27 12:35:35.323952] Evaluating... lambda x: x.groupby(by=["''", 'city'])
+[debug] [2020-08-27 12:35:35.325568] Evaluating... lambda x: x.groupby(by=["''", 'input1'])
+[debug] [2020-08-27 12:35:35.326759] Evaluating... lambda x: x.groupby(by=['name', 'lat'])
+[debug] [2020-08-27 12:35:35.334848] Evaluating... lambda x: x.groupby(by=['installation_date', 'lat'])
+[debug] [2020-08-27 12:35:35.346001] Evaluating... lambda x: x.groupby(by=['city', 'lat'])
+[debug] [2020-08-27 12:35:35.352722] Evaluating... lambda x: x.groupby(by=['long', 'lat'])
+[debug] [2020-08-27 12:35:35.359446] Evaluating... lambda x: x.groupby(by=['dock_count', 'lat'])
+[debug] [2020-08-27 12:35:35.365080] Evaluating... lambda x: x.groupby(by=['long', 'city'])
+[debug] [2020-08-27 12:35:35.371675] Evaluating... lambda x: x.groupby(by=['long', 'input1'])
+[debug] [2020-08-27 12:35:35.373814] Evaluating... lambda x: x.groupby(by=['long', 'installation_date'])
+[debug] [2020-08-27 12:35:35.384057] Evaluating... lambda x: x.groupby(by=['long', 'id'])
+[debug] [2020-08-27 12:35:35.389775] Evaluating... lambda x: x.groupby(by=['name', 'installation_date'])
+[debug] [2020-08-27 12:35:35.400070] Evaluating... lambda x: x.groupby(by=['city', 'installation_date'])
+[debug] [2020-08-27 12:35:35.407029] Evaluating... lambda x: x.groupby(by=['dock_count', 'installation_date'])
+[debug] [2020-08-27 12:35:35.415695] Evaluating... lambda x: x.groupby(by=['city', 'input1'])
+[debug] [2020-08-27 12:35:35.417029] Evaluating... lambda x: x.groupby(by=['city', 'id'])
+[debug] [2020-08-27 12:35:35.423965] Evaluating... lambda x: x.groupby(by=['installation_date', 'input1'])
+[debug] [2020-08-27 12:35:35.425418] Evaluating... lambda x: x.groupby(by=['dock_count', 'input1'])
+[debug] [2020-08-27 12:35:35.426670] Evaluating... lambda x: x.groupby(by=['name', 'input1'])
+[debug] [2020-08-27 12:35:35.428062] Evaluating... lambda x: x.groupby(by=['name', 'id'])
+[debug] [2020-08-27 12:35:35.436228] Evaluating... lambda x: x.groupby(by=['name', 'city'])
+[debug] [2020-08-27 12:35:35.443287] Evaluating... lambda x: x.groupby(by=['dock_count', 'id'])
+[debug] [2020-08-27 12:35:35.448682] Evaluating... lambda x: x.groupby(by=['installation_date', 'id'])
+[debug] [2020-08-27 12:35:35.457348] Evaluating... lambda x: x.groupby(by=['dock_count', 'city'])
+[debug] [2020-08-27 12:35:35.464253] Evaluating... lambda x: x.groupby(by=['installation_date', 'city'])
+[debug] [2020-08-27 12:35:35.470723] Evaluating... lambda x: x.groupby(by=['dock_count', "''"])
+[debug] [2020-08-27 12:35:35.471931] Evaluating... lambda x: x.groupby(by=['installation_date', "''"])
+[debug] [2020-08-27 12:35:35.473912] Evaluating... lambda x: x.groupby(by=['input1', "''"])
+[debug] [2020-08-27 12:35:35.476432] Evaluating... lambda x: x.groupby(by=['lat', "''"])
+[debug] [2020-08-27 12:35:35.478096] Evaluating... lambda x: x.groupby(by=['long', "''"])
+[debug] [2020-08-27 12:35:35.479455] Evaluating... lambda x: x.groupby(by=['city', "''"])
+[debug] [2020-08-27 12:35:35.480738] Evaluating... lambda x: x.groupby(by=['name', "''"])
+[debug] [2020-08-27 12:35:35.481977] Evaluating... lambda x: x.groupby(by=['installation_date'])
+[debug] [2020-08-27 12:35:35.486599] Evaluating... lambda x: x.groupby(by=['dock_count'])
+[debug] [2020-08-27 12:35:35.491954] Evaluating... lambda x: x.groupby(by=['long'])
+[debug] [2020-08-27 12:35:35.495933] Evaluating... lambda x: x.groupby(by=['city'])
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2020-08-27 12:35:35.518793] pandas.DataFrame.sum
+[debug] [2020-08-27 12:35:35.529351] Evaluating... lambda x: x.sum()[['sum(dock_count)', "''"]]
+[debug] [2020-08-27 12:35:35.533477] Evaluating... lambda x: x.sum()[['sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.536944] Evaluating... lambda x: x.sum()[['sum(dock_count)', 'tmp_0']]
+[debug] [2020-08-27 12:35:35.541270] Evaluating... lambda x: x.sum()[['sum(dock_count)', 'dock_count']]
+[debug] [2020-08-27 12:35:35.544873] Evaluating... lambda x: x.sum()[['sum(dock_count)', 'n = sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.548346] Evaluating... lambda x: x.sum()[['sum(dock_count)', 'n']]
+[debug] [2020-08-27 12:35:35.551808] Evaluating... lambda x: x.sum()[['n', 'sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.555383] Evaluating... lambda x: x.sum()[["''", 'sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.559280] Evaluating... lambda x: x.sum()[['dock_count', 'sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.562849] Evaluating... lambda x: x.sum()[['tmp_0', 'sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.566309] Evaluating... lambda x: x.sum()[['n = sum(dock_count)', 'sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.569705] Evaluating... lambda x: x.sum()[['n = sum(dock_count)', 'dock_count']]
+[debug] [2020-08-27 12:35:35.573472] Evaluating... lambda x: x.sum()[['n = sum(dock_count)', 'tmp_0']]
+[debug] [2020-08-27 12:35:35.577312] Evaluating... lambda x: x.sum()[['n = sum(dock_count)', 'n']]
+[debug] [2020-08-27 12:35:35.580819] Evaluating... lambda x: x.sum()[['n', 'dock_count']]
+[debug] [2020-08-27 12:35:35.584157] Evaluating... lambda x: x.sum()[["''", 'dock_count']]
+[debug] [2020-08-27 12:35:35.587466] Evaluating... lambda x: x.sum()[['tmp_0', 'dock_count']]
+[debug] [2020-08-27 12:35:35.591243] Evaluating... lambda x: x.sum()[['n', 'n = sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.594956] Evaluating... lambda x: x.sum()[['n', 'tmp_0']]
+[debug] [2020-08-27 12:35:35.598487] Evaluating... lambda x: x.sum()[['dock_count', 'tmp_0']]
+[debug] [2020-08-27 12:35:35.601861] Evaluating... lambda x: x.sum()[["''", 'tmp_0']]
+[debug] [2020-08-27 12:35:35.605438] Evaluating... lambda x: x.sum()[['tmp_0', 'n']]
+[debug] [2020-08-27 12:35:35.611452] Evaluating... lambda x: x.sum()[['tmp_0', 'n = sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.615225] Evaluating... lambda x: x.sum()[["''", 'n']]
+[debug] [2020-08-27 12:35:35.618684] Evaluating... lambda x: x.sum()[['dock_count', 'n']]
+[debug] [2020-08-27 12:35:35.622262] Evaluating... lambda x: x.sum()[["''", 'n = sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.627305] Evaluating... lambda x: x.sum()[['dock_count', 'n = sum(dock_count)']]
+[debug] [2020-08-27 12:35:35.630779] Evaluating... lambda x: x.sum()[['dock_count', "''"]]
+[debug] [2020-08-27 12:35:35.634125] Evaluating... lambda x: x.sum()[['n = sum(dock_count)', "''"]]
+[debug] [2020-08-27 12:35:35.637588] Evaluating... lambda x: x.sum()[['n', "''"]]
+[debug] [2020-08-27 12:35:35.642190] Evaluating... lambda x: x.sum()[['tmp_0', "''"]]
+[debug] [2020-08-27 12:35:35.649323] Evaluating... lambda x: x.sum()[['dock_count']]
+[info] [2020-08-27 12:35:35.668293] Success!
+[info] [2020-08-27 12:35:35.668399] {'group_by': ('pandas.DataFrame.groupby', 1), 'summarise': ('pandas.DataFrame.sum', 2)}
+[info] [2020-08-27 12:35:35.668490] Avg Rank 1.0
+[info] [2020-08-27 12:35:35.668645] Synthesis time: 1.5226268768310547
+[info] [2020-08-27 12:35:35.668699] lambda x: x.groupby(by=['city'])
+[info] [2020-08-27 12:35:35.668699] lambda x: x.sum()[['dock_count']]

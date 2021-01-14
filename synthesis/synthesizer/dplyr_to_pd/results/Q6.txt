@@ -1,0 +1,360 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+[error] [2020-08-27 12:29:55.212005] Could not load <commons.library_api.Argument object at 0x7f99a0152ba8>
+[error] [2020-08-27 12:29:55.212453] Could not load <commons.library_api.Argument object at 0x7f99a0152fd0>
+[error] [2020-08-27 12:29:55.213908] Could not load <commons.library_api.Argument object at 0x7f99a0160780>
+[info] [2020-08-27 12:29:55.253907] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+[debug] [2020-08-27 12:30:31.518999] Done. 400000 words loaded!
+[info] [2020-08-27 12:30:31.656404] Unknown word starwars: break into star and wars
+[info] [2020-08-27 12:30:31.656612] Unknown word recode: break into re and code
+[info] [2020-08-27 12:30:31.656726] Unknown word lag: break into l and ag
+[info] [2020-08-27 12:30:31.656915] Unknown word rowwise: break into row and wise
+[info] [2020-08-27 12:30:31.657049] Unknown word rename: break into re and name
+[info] [2020-08-27 12:30:31.657184] Unknown word assign: break into as and sign
+[info] [2020-08-27 12:30:31.657289] Unknown word transpose: break into trans and pose
+[info] [2020-08-27 12:30:31.657486] Unknown word markdown: break into mark and down
+[info] [2020-08-27 12:30:31.657630] Unknown word feather: break into feat and her
+[info] [2020-08-27 12:30:31.657795] Unknown word pickle: break into pick and le
+[info] [2020-08-27 12:30:31.657920] Unknown word json: break into j and son
+[info] [2020-08-27 12:30:31.658136] Unknown word bfill: break into b and fill
+[info] [2020-08-27 12:30:31.658240] Unknown word ffill: break into f and fill
+[info] [2020-08-27 12:30:31.658438] Unknown word boxplot: break into box and plot
+[info] [2020-08-27 12:30:31.658600] Unknown word kde: break into k and de
+[info] [2020-08-27 12:30:31.658845] Unknown word timestamp: break into time and stamp
+[info] [2020-08-27 12:30:31.659069] Unknown word tshift: break into t and shift
+[info] [2020-08-27 12:30:31.659209] Unknown word resample: break into re and sample
+[info] [2020-08-27 12:30:31.659315] Unknown word asof: break into as and of
+[info] [2020-08-27 12:30:31.659430] Unknown word xarray: break into x and array
+[info] [2020-08-27 12:30:31.659562] Unknown word swaplevel: break into swap and level
+[info] [2020-08-27 12:30:31.659662] Unknown word nsmallest: break into n and smallest
+[info] [2020-08-27 12:30:31.659745] Unknown word nlargest: break into n and largest
+[info] [2020-08-27 12:30:31.659835] Unknown word reorder: break into re and order
+[info] [2020-08-27 12:30:31.659945] Unknown word droplevel: break into drop and level
+[info] [2020-08-27 12:30:31.660106] Unknown word fillna: break into fill and na
+[info] [2020-08-27 12:30:31.660189] Unknown word dropna: break into drop and na
+[info] [2020-08-27 12:30:31.660351] Unknown word reset: break into re and set
+[info] [2020-08-27 12:30:31.660421] Unknown word rename: break into re and name
+[info] [2020-08-27 12:30:31.660508] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:30:31.660569] Unknown word rename: break into re and name
+[info] [2020-08-27 12:30:31.660705] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:30:31.660916] Unknown word prefix: break into pre and fix
+[info] [2020-08-27 12:30:31.661021] Unknown word nunique: break into n and unique
+[info] [2020-08-27 12:30:31.661147] Unknown word prod: break into p and rod
+[info] [2020-08-27 12:30:31.661251] Unknown word min: break into m and in
+[info] [2020-08-27 12:30:31.661564] Unknown word groupby: break into group and by
+[info] [2020-08-27 12:30:31.661702] Unknown word applymap: break into apply and map
+[info] [2020-08-27 12:30:31.661854] Unknown word radd: break into r and add
+[info] [2020-08-27 12:30:31.661950] Unknown word rsub: break into r and sub
+[info] [2020-08-27 12:30:31.662088] Unknown word div: break into d and iv
+[info] [2020-08-27 12:30:31.662289] Unknown word isin: break into is and in
+[info] [2020-08-27 12:30:31.662484] Unknown word lookup: break into look and up
+[info] [2020-08-27 12:30:31.662667] Unknown word iat: break into i and at
+[info] [2020-08-27 12:30:31.662771] Unknown word notna: break into not and na
+[info] [2020-08-27 12:30:31.662893] Unknown word isna: break into is and na
+[info] [2020-08-27 12:30:31.663023] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:30:31.663114] Unknown word astype: break into as and type
+[info] [2020-08-27 12:30:31.663195] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:30:31.663262] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:30:31.663364] Unknown word sortlevel: break into sort and level
+[info] [2020-08-27 12:30:31.663437] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:30:31.663578] Unknown word pad: break into p and ad
+[info] [2020-08-27 12:30:31.663699] Unknown word backfill: break into back and fill
+[info] [2020-08-27 12:30:31.663779] Unknown word irow: break into i and row
+[info] [2020-08-27 12:30:31.663863] Unknown word iget: break into i and get
+[info] [2020-08-27 12:30:31.664001] Unknown word ftype: break into f and type
+[info] [2020-08-27 12:30:31.664090] Unknown word dtype: break into d and type
+[info] [2020-08-27 12:30:31.664155] Unknown word ftypes: break into f and types
+number of word types: 295, number of word types w/ frequency >= 1: 295
+[debug] [2020-08-27 12:30:31.703165] 299 out of 299 words in the vocab are also found in the pretrained embedding
+[debug] [2020-08-27 12:30:31.704784] Generating representation matrix complete!
+[info] [2020-08-27 12:30:32.722980] pandas.DataFrame.groupby
+[debug] [2020-08-27 12:30:32.735879] Evaluating... lambda x: x.groupby(by=['Id', "''"])
+[debug] [2020-08-27 12:30:32.737803] Evaluating... lambda x: x.groupby(by=['Id'])
+[debug] [2020-08-27 12:30:32.749993] Evaluating... lambda x: x.groupby(by=['Id', 'Date'])
+[debug] [2020-08-27 12:30:32.760164] Evaluating... lambda x: x.groupby(by=['Id', 'Total.Bags'])
+[debug] [2020-08-27 12:30:32.766292] Evaluating... lambda x: x.groupby(by=['Id', 'Large.Bags'])
+[debug] [2020-08-27 12:30:32.772160] Evaluating... lambda x: x.groupby(by=['Id', 'type'])
+[debug] [2020-08-27 12:30:32.779291] Evaluating... lambda x: x.groupby(by=['Id', 'region'])
+[debug] [2020-08-27 12:30:32.786238] Evaluating... lambda x: x.groupby(by=['Id', 'AveragePrice'])
+[debug] [2020-08-27 12:30:32.791924] Evaluating... lambda x: x.groupby(by=['Id', 'X4046'])
+[debug] [2020-08-27 12:30:32.797790] Evaluating... lambda x: x.groupby(by=['Id', 'X4770'])
+[debug] [2020-08-27 12:30:32.803644] Evaluating... lambda x: x.groupby(by=['Id', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:32.809497] Evaluating... lambda x: x.groupby(by=['Id', 'Total.Volume'])
+[debug] [2020-08-27 12:30:32.815164] Evaluating... lambda x: x.groupby(by=['Id', 'input1'])
+[debug] [2020-08-27 12:30:32.816552] Evaluating... lambda x: x.groupby(by=['Id', 'X4225'])
+[debug] [2020-08-27 12:30:32.822200] Evaluating... lambda x: x.groupby(by=['Id', 'year'])
+[debug] [2020-08-27 12:30:32.827792] Evaluating... lambda x: x.groupby(by=['Id', 'Small.Bags'])
+[debug] [2020-08-27 12:30:32.833498] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'year'])
+[debug] [2020-08-27 12:30:32.842834] Evaluating... lambda x: x.groupby(by=['X4225', 'year'])
+[debug] [2020-08-27 12:30:32.848977] Evaluating... lambda x: x.groupby(by=['X4770', 'year'])
+[debug] [2020-08-27 12:30:32.854543] Evaluating... lambda x: x.groupby(by=['region', 'year'])
+[debug] [2020-08-27 12:30:32.861472] Evaluating... lambda x: x.groupby(by=['type', 'year'])
+[debug] [2020-08-27 12:30:32.868330] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'year'])
+[debug] [2020-08-27 12:30:32.874699] Evaluating... lambda x: x.groupby(by=["''", 'year'])
+[debug] [2020-08-27 12:30:32.875960] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'year'])
+[debug] [2020-08-27 12:30:32.881627] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'year'])
+[debug] [2020-08-27 12:30:32.887178] Evaluating... lambda x: x.groupby(by=['Date', 'year'])
+[debug] [2020-08-27 12:30:32.894247] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'year'])
+[debug] [2020-08-27 12:30:32.899965] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'year'])
+[debug] [2020-08-27 12:30:32.905675] Evaluating... lambda x: x.groupby(by=['input1', 'year'])
+[debug] [2020-08-27 12:30:32.906944] Evaluating... lambda x: x.groupby(by=['X4046', 'year'])
+[debug] [2020-08-27 12:30:32.912500] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'Date'])
+[debug] [2020-08-27 12:30:32.921043] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'Small.Bags'])
+[debug] [2020-08-27 12:30:32.926632] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'Total.Volume'])
+[debug] [2020-08-27 12:30:32.932332] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'X4770'])
+[debug] [2020-08-27 12:30:32.937960] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'Id'])
+[debug] [2020-08-27 12:30:32.943512] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'X4225'])
+[debug] [2020-08-27 12:30:32.949163] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'AveragePrice'])
+[debug] [2020-08-27 12:30:32.954797] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'X4046'])
+[debug] [2020-08-27 12:30:32.960740] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'region'])
+[debug] [2020-08-27 12:30:32.967866] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'Total.Bags'])
+[debug] [2020-08-27 12:30:32.973626] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:32.979300] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'input1'])
+[debug] [2020-08-27 12:30:32.980646] Evaluating... lambda x: x.groupby(by=['Large.Bags', 'type'])
+[debug] [2020-08-27 12:30:32.987814] Evaluating... lambda x: x.groupby(by=['Date', 'Id'])
+[debug] [2020-08-27 12:30:32.996356] Evaluating... lambda x: x.groupby(by=['X4046', 'Id'])
+[debug] [2020-08-27 12:30:33.002920] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'Id'])
+[debug] [2020-08-27 12:30:33.008728] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'Id'])
+[debug] [2020-08-27 12:30:33.014425] Evaluating... lambda x: x.groupby(by=['region', 'Id'])
+[debug] [2020-08-27 12:30:33.021417] Evaluating... lambda x: x.groupby(by=["''", 'Id'])
+[debug] [2020-08-27 12:30:33.022839] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'Id'])
+[debug] [2020-08-27 12:30:33.028637] Evaluating... lambda x: x.groupby(by=['input1', 'Id'])
+[debug] [2020-08-27 12:30:33.029851] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'Id'])
+[debug] [2020-08-27 12:30:33.035503] Evaluating... lambda x: x.groupby(by=['X4225', 'Id'])
+[debug] [2020-08-27 12:30:33.041120] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'Id'])
+[debug] [2020-08-27 12:30:33.046832] Evaluating... lambda x: x.groupby(by=['X4770', 'Id'])
+[debug] [2020-08-27 12:30:33.052531] Evaluating... lambda x: x.groupby(by=['year', 'Id'])
+[debug] [2020-08-27 12:30:33.058123] Evaluating... lambda x: x.groupby(by=['type', 'Id'])
+[debug] [2020-08-27 12:30:33.065215] Evaluating... lambda x: x.groupby(by=['region', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.072326] Evaluating... lambda x: x.groupby(by=['region', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.079422] Evaluating... lambda x: x.groupby(by=['region', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.086208] Evaluating... lambda x: x.groupby(by=['region', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.093168] Evaluating... lambda x: x.groupby(by=['region', 'X4770'])
+[debug] [2020-08-27 12:30:33.100202] Evaluating... lambda x: x.groupby(by=['region', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.107141] Evaluating... lambda x: x.groupby(by=['region', 'X4046'])
+[debug] [2020-08-27 12:30:33.114219] Evaluating... lambda x: x.groupby(by=['region', 'type'])
+[debug] [2020-08-27 12:30:33.120950] Evaluating... lambda x: x.groupby(by=['region', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.128394] Evaluating... lambda x: x.groupby(by=['region', 'X4225'])
+[debug] [2020-08-27 12:30:33.135380] Evaluating... lambda x: x.groupby(by=['region', 'input1'])
+[debug] [2020-08-27 12:30:33.136904] Evaluating... lambda x: x.groupby(by=['region', 'Date'])
+[debug] [2020-08-27 12:30:33.143672] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.149256] Evaluating... lambda x: x.groupby(by=['input1', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.150601] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.156139] Evaluating... lambda x: x.groupby(by=['X4225', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.161794] Evaluating... lambda x: x.groupby(by=['year', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.167689] Evaluating... lambda x: x.groupby(by=["''", 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.169338] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.175136] Evaluating... lambda x: x.groupby(by=['X4770', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.180817] Evaluating... lambda x: x.groupby(by=['type', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.187781] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.193412] Evaluating... lambda x: x.groupby(by=['Date', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.201699] Evaluating... lambda x: x.groupby(by=['X4046', 'Total.Volume'])
+[debug] [2020-08-27 12:30:33.207325] Evaluating... lambda x: x.groupby(by=['type', 'X4225'])
+[debug] [2020-08-27 12:30:33.214336] Evaluating... lambda x: x.groupby(by=['type', 'region'])
+[debug] [2020-08-27 12:30:33.221163] Evaluating... lambda x: x.groupby(by=['type', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.227892] Evaluating... lambda x: x.groupby(by=['type', 'input1'])
+[debug] [2020-08-27 12:30:33.229405] Evaluating... lambda x: x.groupby(by=['type', 'Date'])
+[debug] [2020-08-27 12:30:33.236029] Evaluating... lambda x: x.groupby(by=['type', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.242825] Evaluating... lambda x: x.groupby(by=['type', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.249618] Evaluating... lambda x: x.groupby(by=['type', 'X4770'])
+[debug] [2020-08-27 12:30:33.256462] Evaluating... lambda x: x.groupby(by=['type', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.263205] Evaluating... lambda x: x.groupby(by=['type', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.270029] Evaluating... lambda x: x.groupby(by=['type', 'X4046'])
+[debug] [2020-08-27 12:30:33.277468] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'Date'])
+[debug] [2020-08-27 12:30:33.286159] Evaluating... lambda x: x.groupby(by=['X4046', 'Date'])
+[debug] [2020-08-27 12:30:33.294589] Evaluating... lambda x: x.groupby(by=['X4770', 'Date'])
+[debug] [2020-08-27 12:30:33.302953] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'Date'])
+[debug] [2020-08-27 12:30:33.309856] Evaluating... lambda x: x.groupby(by=['X4225', 'Date'])
+[debug] [2020-08-27 12:30:33.318563] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'Date'])
+[debug] [2020-08-27 12:30:33.327223] Evaluating... lambda x: x.groupby(by=["''", 'Date'])
+[debug] [2020-08-27 12:30:33.328455] Evaluating... lambda x: x.groupby(by=['input1', 'Date'])
+[debug] [2020-08-27 12:30:33.329608] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'Date'])
+[debug] [2020-08-27 12:30:33.338297] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'Date'])
+[debug] [2020-08-27 12:30:33.346722] Evaluating... lambda x: x.groupby(by=['year', 'Date'])
+[debug] [2020-08-27 12:30:33.354149] Evaluating... lambda x: x.groupby(by=['input1', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.355521] Evaluating... lambda x: x.groupby(by=['input1', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.356872] Evaluating... lambda x: x.groupby(by=['input1', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.358025] Evaluating... lambda x: x.groupby(by=['input1', 'X4225'])
+[debug] [2020-08-27 12:30:33.359155] Evaluating... lambda x: x.groupby(by=['input1', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.360284] Evaluating... lambda x: x.groupby(by=['input1', 'X4046'])
+[debug] [2020-08-27 12:30:33.361397] Evaluating... lambda x: x.groupby(by=['input1', 'X4770'])
+[debug] [2020-08-27 12:30:33.362547] Evaluating... lambda x: x.groupby(by=['input1', 'type'])
+[debug] [2020-08-27 12:30:33.363795] Evaluating... lambda x: x.groupby(by=['input1', 'region'])
+[debug] [2020-08-27 12:30:33.365127] Evaluating... lambda x: x.groupby(by=['input1', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.366297] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'type'])
+[debug] [2020-08-27 12:30:33.373498] Evaluating... lambda x: x.groupby(by=['Date', 'type'])
+[debug] [2020-08-27 12:30:33.380408] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'type'])
+[debug] [2020-08-27 12:30:33.387254] Evaluating... lambda x: x.groupby(by=['X4046', 'type'])
+[debug] [2020-08-27 12:30:33.394242] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'type'])
+[debug] [2020-08-27 12:30:33.401183] Evaluating... lambda x: x.groupby(by=['X4225', 'type'])
+[debug] [2020-08-27 12:30:33.408145] Evaluating... lambda x: x.groupby(by=['year', 'type'])
+[debug] [2020-08-27 12:30:33.415206] Evaluating... lambda x: x.groupby(by=["''", 'type'])
+[debug] [2020-08-27 12:30:33.416405] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'type'])
+[debug] [2020-08-27 12:30:33.423580] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'type'])
+[debug] [2020-08-27 12:30:33.430536] Evaluating... lambda x: x.groupby(by=['X4770', 'type'])
+[debug] [2020-08-27 12:30:33.437377] Evaluating... lambda x: x.groupby(by=['X4046', 'X4770'])
+[debug] [2020-08-27 12:30:33.443042] Evaluating... lambda x: x.groupby(by=['X4046', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.448867] Evaluating... lambda x: x.groupby(by=['X4046', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.454753] Evaluating... lambda x: x.groupby(by=['X4046', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.460460] Evaluating... lambda x: x.groupby(by=['X4046', 'input1'])
+[debug] [2020-08-27 12:30:33.461985] Evaluating... lambda x: x.groupby(by=['X4046', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.467575] Evaluating... lambda x: x.groupby(by=['X4046', 'X4225'])
+[debug] [2020-08-27 12:30:33.473124] Evaluating... lambda x: x.groupby(by=['X4046', 'region'])
+[debug] [2020-08-27 12:30:33.480171] Evaluating... lambda x: x.groupby(by=['X4046', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.485823] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.491733] Evaluating... lambda x: x.groupby(by=['Date', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.500214] Evaluating... lambda x: x.groupby(by=["''", 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.501455] Evaluating... lambda x: x.groupby(by=['X4770', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.507257] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.512812] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.518582] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.524400] Evaluating... lambda x: x.groupby(by=['X4225', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.529963] Evaluating... lambda x: x.groupby(by=['year', 'AveragePrice'])
+[debug] [2020-08-27 12:30:33.535821] Evaluating... lambda x: x.groupby(by=['X4770', 'X4225'])
+[debug] [2020-08-27 12:30:33.541563] Evaluating... lambda x: x.groupby(by=['X4770', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.547261] Evaluating... lambda x: x.groupby(by=['X4770', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.552991] Evaluating... lambda x: x.groupby(by=['X4770', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.559954] Evaluating... lambda x: x.groupby(by=['X4770', 'X4046'])
+[debug] [2020-08-27 12:30:33.565817] Evaluating... lambda x: x.groupby(by=['X4770', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.571768] Evaluating... lambda x: x.groupby(by=['X4770', 'input1'])
+[debug] [2020-08-27 12:30:33.574068] Evaluating... lambda x: x.groupby(by=['X4770', 'region'])
+[debug] [2020-08-27 12:30:33.581362] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.587049] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.592801] Evaluating... lambda x: x.groupby(by=['year', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.598556] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.604783] Evaluating... lambda x: x.groupby(by=['Date', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.615087] Evaluating... lambda x: x.groupby(by=['X4225', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.622161] Evaluating... lambda x: x.groupby(by=["''", 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.623648] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'Total.Bags'])
+[debug] [2020-08-27 12:30:33.630644] Evaluating... lambda x: x.groupby(by=['X4225', 'region'])
+[debug] [2020-08-27 12:30:33.637835] Evaluating... lambda x: x.groupby(by=['X4225', 'input1'])
+[debug] [2020-08-27 12:30:33.639250] Evaluating... lambda x: x.groupby(by=['X4225', 'X4770'])
+[debug] [2020-08-27 12:30:33.644959] Evaluating... lambda x: x.groupby(by=['X4225', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.650777] Evaluating... lambda x: x.groupby(by=['X4225', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.656439] Evaluating... lambda x: x.groupby(by=['X4225', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.662302] Evaluating... lambda x: x.groupby(by=['X4225', 'X4046'])
+[debug] [2020-08-27 12:30:33.668026] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.673724] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.679457] Evaluating... lambda x: x.groupby(by=['Date', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.686421] Evaluating... lambda x: x.groupby(by=['year', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.692305] Evaluating... lambda x: x.groupby(by=["''", 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.693559] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.699519] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'XLarge.Bags'])
+[debug] [2020-08-27 12:30:33.706226] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'region'])
+[debug] [2020-08-27 12:30:33.713256] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'X4770'])
+[debug] [2020-08-27 12:30:33.718875] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'input1'])
+[debug] [2020-08-27 12:30:33.720334] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.726107] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'X4046'])
+[debug] [2020-08-27 12:30:33.731901] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.737636] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', 'X4225'])
+[debug] [2020-08-27 12:30:33.743237] Evaluating... lambda x: x.groupby(by=["''", 'X4770'])
+[debug] [2020-08-27 12:30:33.744587] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'X4770'])
+[debug] [2020-08-27 12:30:33.750251] Evaluating... lambda x: x.groupby(by=['year', 'X4770'])
+[debug] [2020-08-27 12:30:33.756023] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'X4770'])
+[debug] [2020-08-27 12:30:33.761920] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'X4770'])
+[debug] [2020-08-27 12:30:33.767514] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'X4770'])
+[debug] [2020-08-27 12:30:33.773350] Evaluating... lambda x: x.groupby(by=['Date', 'X4770'])
+[debug] [2020-08-27 12:30:33.781845] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'X4046'])
+[debug] [2020-08-27 12:30:33.787647] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'region'])
+[debug] [2020-08-27 12:30:33.794746] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'X4225'])
+[debug] [2020-08-27 12:30:33.800488] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.806317] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'input1'])
+[debug] [2020-08-27 12:30:33.807697] Evaluating... lambda x: x.groupby(by=['Total.Volume', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.813512] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'X4046'])
+[debug] [2020-08-27 12:30:33.819236] Evaluating... lambda x: x.groupby(by=['Date', 'X4046'])
+[debug] [2020-08-27 12:30:33.827674] Evaluating... lambda x: x.groupby(by=["''", 'X4046'])
+[debug] [2020-08-27 12:30:33.828907] Evaluating... lambda x: x.groupby(by=['year', 'X4046'])
+[debug] [2020-08-27 12:30:33.834525] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'X4046'])
+[debug] [2020-08-27 12:30:33.840105] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'X4046'])
+[debug] [2020-08-27 12:30:33.845749] Evaluating... lambda x: x.groupby(by=["''", 'X4225'])
+[debug] [2020-08-27 12:30:33.846985] Evaluating... lambda x: x.groupby(by=["''", 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.848287] Evaluating... lambda x: x.groupby(by=["''", 'input1'])
+[debug] [2020-08-27 12:30:33.849504] Evaluating... lambda x: x.groupby(by=["''", 'region'])
+[debug] [2020-08-27 12:30:33.850667] Evaluating... lambda x: x.groupby(by=["''", 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.851803] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'input1'])
+[debug] [2020-08-27 12:30:33.853032] Evaluating... lambda x: x.groupby(by=['Date', 'input1'])
+[debug] [2020-08-27 12:30:33.854342] Evaluating... lambda x: x.groupby(by=['year', 'input1'])
+[debug] [2020-08-27 12:30:33.855697] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'input1'])
+[debug] [2020-08-27 12:30:33.857082] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'input1'])
+[debug] [2020-08-27 12:30:33.858363] Evaluating... lambda x: x.groupby(by=['year', 'region'])
+[debug] [2020-08-27 12:30:33.865366] Evaluating... lambda x: x.groupby(by=['year', 'X4225'])
+[debug] [2020-08-27 12:30:33.870983] Evaluating... lambda x: x.groupby(by=['year', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.876691] Evaluating... lambda x: x.groupby(by=['year', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.882399] Evaluating... lambda x: x.groupby(by=['year', "''"])
+[debug] [2020-08-27 12:30:33.883761] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'X4225'])
+[debug] [2020-08-27 12:30:33.889471] Evaluating... lambda x: x.groupby(by=['Date', 'X4225'])
+[debug] [2020-08-27 12:30:33.898000] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'X4225'])
+[debug] [2020-08-27 12:30:33.903673] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'X4225'])
+[debug] [2020-08-27 12:30:33.909440] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.915306] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'region'])
+[debug] [2020-08-27 12:30:33.922575] Evaluating... lambda x: x.groupby(by=['Total.Bags', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.928326] Evaluating... lambda x: x.groupby(by=['Total.Bags', "''"])
+[debug] [2020-08-27 12:30:33.929782] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.935398] Evaluating... lambda x: x.groupby(by=['Date', 'Small.Bags'])
+[debug] [2020-08-27 12:30:33.943683] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'region'])
+[debug] [2020-08-27 12:30:33.950627] Evaluating... lambda x: x.groupby(by=['AveragePrice', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.956270] Evaluating... lambda x: x.groupby(by=['AveragePrice', "''"])
+[debug] [2020-08-27 12:30:33.957670] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'region'])
+[debug] [2020-08-27 12:30:33.964779] Evaluating... lambda x: x.groupby(by=['Date', 'region'])
+[debug] [2020-08-27 12:30:33.971564] Evaluating... lambda x: x.groupby(by=['Date', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.979945] Evaluating... lambda x: x.groupby(by=['Date', "''"])
+[debug] [2020-08-27 12:30:33.981424] Evaluating... lambda x: x.groupby(by=['Small.Bags', 'Large.Bags'])
+[debug] [2020-08-27 12:30:33.987068] Evaluating... lambda x: x.groupby(by=['Small.Bags', "''"])
+[debug] [2020-08-27 12:30:33.988476] Evaluating... lambda x: x.groupby(by=['Large.Bags', "''"])
+[debug] [2020-08-27 12:30:33.989745] Evaluating... lambda x: x.groupby(by=['region', "''"])
+[debug] [2020-08-27 12:30:33.991226] Evaluating... lambda x: x.groupby(by=['type', "''"])
+[debug] [2020-08-27 12:30:33.992636] Evaluating... lambda x: x.groupby(by=['input1', "''"])
+[debug] [2020-08-27 12:30:33.993816] Evaluating... lambda x: x.groupby(by=['X4046', "''"])
+[debug] [2020-08-27 12:30:33.995101] Evaluating... lambda x: x.groupby(by=['X4770', "''"])
+[debug] [2020-08-27 12:30:33.996344] Evaluating... lambda x: x.groupby(by=['X4225', "''"])
+[debug] [2020-08-27 12:30:33.997729] Evaluating... lambda x: x.groupby(by=['XLarge.Bags', "''"])
+[debug] [2020-08-27 12:30:33.999118] Evaluating... lambda x: x.groupby(by=['Total.Volume', "''"])
+[debug] [2020-08-27 12:30:34.000530] Evaluating... lambda x: x.groupby(by=['Small.Bags'])
+[debug] [2020-08-27 12:30:34.004615] Evaluating... lambda x: x.groupby(by=['Date'])
+[debug] [2020-08-27 12:30:34.009561] Evaluating... lambda x: x.groupby(by=['Total.Bags'])
+[debug] [2020-08-27 12:30:34.013575] Evaluating... lambda x: x.groupby(by=['AveragePrice'])
+[debug] [2020-08-27 12:30:34.017551] Evaluating... lambda x: x.groupby(by=['year'])
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2020-08-27 12:30:34.033116] pandas.DataFrame.mean
+[debug] [2020-08-27 12:30:34.044474] Evaluating... lambda x: x.mean()[['mean(AveragePrice)', "''"]]
+[debug] [2020-08-27 12:30:34.048528] Evaluating... lambda x: x.mean()[['mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.052186] Evaluating... lambda x: x.mean()[['mean(AveragePrice)', 'tmp_0']]
+[debug] [2020-08-27 12:30:34.055891] Evaluating... lambda x: x.mean()[['mean(AveragePrice)', 'AveragePrice']]
+[debug] [2020-08-27 12:30:34.059374] Evaluating... lambda x: x.mean()[['mean(AveragePrice)', 'mean = mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.063049] Evaluating... lambda x: x.mean()[['mean(AveragePrice)', 'mean']]
+[debug] [2020-08-27 12:30:34.066817] Evaluating... lambda x: x.mean()[['mean', 'mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.071045] Evaluating... lambda x: x.mean()[["''", 'mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.074976] Evaluating... lambda x: x.mean()[['AveragePrice', 'mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.078692] Evaluating... lambda x: x.mean()[['tmp_0', 'mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.082415] Evaluating... lambda x: x.mean()[['mean = mean(AveragePrice)', 'mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.086212] Evaluating... lambda x: x.mean()[['mean = mean(AveragePrice)', 'AveragePrice']]
+[debug] [2020-08-27 12:30:34.089835] Evaluating... lambda x: x.mean()[['mean = mean(AveragePrice)', 'tmp_0']]
+[debug] [2020-08-27 12:30:34.093553] Evaluating... lambda x: x.mean()[['mean = mean(AveragePrice)', 'mean']]
+[debug] [2020-08-27 12:30:34.097150] Evaluating... lambda x: x.mean()[['mean', 'AveragePrice']]
+[debug] [2020-08-27 12:30:34.100760] Evaluating... lambda x: x.mean()[["''", 'AveragePrice']]
+[debug] [2020-08-27 12:30:34.104308] Evaluating... lambda x: x.mean()[['tmp_0', 'AveragePrice']]
+[debug] [2020-08-27 12:30:34.107848] Evaluating... lambda x: x.mean()[['mean', 'mean = mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.111726] Evaluating... lambda x: x.mean()[['mean', 'tmp_0']]
+[debug] [2020-08-27 12:30:34.115398] Evaluating... lambda x: x.mean()[['AveragePrice', 'tmp_0']]
+[debug] [2020-08-27 12:30:34.118895] Evaluating... lambda x: x.mean()[["''", 'tmp_0']]
+[debug] [2020-08-27 12:30:34.122361] Evaluating... lambda x: x.mean()[['tmp_0', 'mean']]
+[debug] [2020-08-27 12:30:34.126294] Evaluating... lambda x: x.mean()[['tmp_0', 'mean = mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.129787] Evaluating... lambda x: x.mean()[["''", 'mean']]
+[debug] [2020-08-27 12:30:34.133404] Evaluating... lambda x: x.mean()[['AveragePrice', 'mean']]
+[debug] [2020-08-27 12:30:34.137136] Evaluating... lambda x: x.mean()[["''", 'mean = mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.140796] Evaluating... lambda x: x.mean()[['AveragePrice', 'mean = mean(AveragePrice)']]
+[debug] [2020-08-27 12:30:34.144165] Evaluating... lambda x: x.mean()[['AveragePrice', "''"]]
+[debug] [2020-08-27 12:30:34.147675] Evaluating... lambda x: x.mean()[['mean = mean(AveragePrice)', "''"]]
+[debug] [2020-08-27 12:30:34.151239] Evaluating... lambda x: x.mean()[['mean', "''"]]
+[debug] [2020-08-27 12:30:34.154634] Evaluating... lambda x: x.mean()[['tmp_0', "''"]]
+[debug] [2020-08-27 12:30:34.158273] Evaluating... lambda x: x.mean()[['AveragePrice']]
+[info] [2020-08-27 12:30:34.165873] Success!
+[info] [2020-08-27 12:30:34.166007] {'group_by': ('pandas.DataFrame.groupby', 1), 'summarise': ('pandas.DataFrame.mean', 2)}
+[info] [2020-08-27 12:30:34.166076] Avg Rank 1.0
+[info] [2020-08-27 12:30:34.166238] Synthesis time: 2.374565839767456
+[info] [2020-08-27 12:30:34.166292] lambda x: x.groupby(by=['year'])
+[info] [2020-08-27 12:30:34.166292] lambda x: x.mean()[['AveragePrice']]

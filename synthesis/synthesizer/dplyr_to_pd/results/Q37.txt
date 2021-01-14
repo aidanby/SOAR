@@ -1,0 +1,437 @@
+During startup - Warning messages:
+1: Setting LC_COLLATE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+[error] [2020-08-27 12:40:09.425684] Could not load <commons.library_api.Argument object at 0x7fe54ca51320>
+[error] [2020-08-27 12:40:09.426154] Could not load <commons.library_api.Argument object at 0x7fe54ca51710>
+[error] [2020-08-27 12:40:09.427526] Could not load <commons.library_api.Argument object at 0x7fe54ca5ae80>
+[info] [2020-08-27 12:40:09.464884] Loading Glove Model
+number of word types: 400000, number of word types w/ frequency >= 1: 400000
+[debug] [2020-08-27 12:40:42.054202] Done. 400000 words loaded!
+[info] [2020-08-27 12:40:42.168460] Unknown word starwars: break into star and wars
+[info] [2020-08-27 12:40:42.169066] Unknown word recode: break into re and code
+[info] [2020-08-27 12:40:42.169270] Unknown word lag: break into l and ag
+[info] [2020-08-27 12:40:42.169433] Unknown word rowwise: break into row and wise
+[info] [2020-08-27 12:40:42.169589] Unknown word rename: break into re and name
+[info] [2020-08-27 12:40:42.169781] Unknown word assign: break into as and sign
+[info] [2020-08-27 12:40:42.169928] Unknown word transpose: break into trans and pose
+[info] [2020-08-27 12:40:42.170089] Unknown word markdown: break into mark and down
+[info] [2020-08-27 12:40:42.170253] Unknown word feather: break into feat and her
+[info] [2020-08-27 12:40:42.170474] Unknown word pickle: break into pick and le
+[info] [2020-08-27 12:40:42.170643] Unknown word json: break into j and son
+[info] [2020-08-27 12:40:42.170823] Unknown word bfill: break into b and fill
+[info] [2020-08-27 12:40:42.170937] Unknown word ffill: break into f and fill
+[info] [2020-08-27 12:40:42.171185] Unknown word boxplot: break into box and plot
+[info] [2020-08-27 12:40:42.171318] Unknown word kde: break into k and de
+[info] [2020-08-27 12:40:42.171544] Unknown word timestamp: break into time and stamp
+[info] [2020-08-27 12:40:42.171690] Unknown word tshift: break into t and shift
+[info] [2020-08-27 12:40:42.171808] Unknown word resample: break into re and sample
+[info] [2020-08-27 12:40:42.171935] Unknown word asof: break into as and of
+[info] [2020-08-27 12:40:42.172086] Unknown word xarray: break into x and array
+[info] [2020-08-27 12:40:42.172261] Unknown word swaplevel: break into swap and level
+[info] [2020-08-27 12:40:42.172397] Unknown word nsmallest: break into n and smallest
+[info] [2020-08-27 12:40:42.172520] Unknown word nlargest: break into n and largest
+[info] [2020-08-27 12:40:42.172645] Unknown word reorder: break into re and order
+[info] [2020-08-27 12:40:42.172779] Unknown word droplevel: break into drop and level
+[info] [2020-08-27 12:40:42.172909] Unknown word fillna: break into fill and na
+[info] [2020-08-27 12:40:42.172995] Unknown word dropna: break into drop and na
+[info] [2020-08-27 12:40:42.173125] Unknown word reset: break into re and set
+[info] [2020-08-27 12:40:42.173210] Unknown word rename: break into re and name
+[info] [2020-08-27 12:40:42.173322] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:40:42.173406] Unknown word rename: break into re and name
+[info] [2020-08-27 12:40:42.173499] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:40:42.173692] Unknown word prefix: break into pre and fix
+[info] [2020-08-27 12:40:42.173820] Unknown word nunique: break into n and unique
+[info] [2020-08-27 12:40:42.173987] Unknown word prod: break into p and rod
+[info] [2020-08-27 12:40:42.174125] Unknown word min: break into m and in
+[info] [2020-08-27 12:40:42.174399] Unknown word groupby: break into group and by
+[info] [2020-08-27 12:40:42.174564] Unknown word applymap: break into apply and map
+[info] [2020-08-27 12:40:42.174768] Unknown word radd: break into r and add
+[info] [2020-08-27 12:40:42.174897] Unknown word rsub: break into r and sub
+[info] [2020-08-27 12:40:42.175049] Unknown word div: break into d and iv
+[info] [2020-08-27 12:40:42.175230] Unknown word isin: break into is and in
+[info] [2020-08-27 12:40:42.175382] Unknown word lookup: break into look and up
+[info] [2020-08-27 12:40:42.175549] Unknown word iat: break into i and at
+[info] [2020-08-27 12:40:42.175654] Unknown word notna: break into not and na
+[info] [2020-08-27 12:40:42.175720] Unknown word isna: break into is and na
+[info] [2020-08-27 12:40:42.175818] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:40:42.175907] Unknown word astype: break into as and type
+[info] [2020-08-27 12:40:42.175993] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:40:42.176066] Unknown word dtypes: break into d and types
+[info] [2020-08-27 12:40:42.176177] Unknown word sortlevel: break into sort and level
+[info] [2020-08-27 12:40:42.176254] Unknown word reindex: break into re and index
+[info] [2020-08-27 12:40:42.176343] Unknown word pad: break into p and ad
+[info] [2020-08-27 12:40:42.176434] Unknown word backfill: break into back and fill
+[info] [2020-08-27 12:40:42.176512] Unknown word irow: break into i and row
+[info] [2020-08-27 12:40:42.176597] Unknown word iget: break into i and get
+[info] [2020-08-27 12:40:42.176674] Unknown word ftype: break into f and type
+[info] [2020-08-27 12:40:42.176735] Unknown word dtype: break into d and type
+[info] [2020-08-27 12:40:42.176796] Unknown word ftypes: break into f and types
+number of word types: 295, number of word types w/ frequency >= 1: 295
+[debug] [2020-08-27 12:40:42.221272] 299 out of 299 words in the vocab are also found in the pretrained embedding
+[debug] [2020-08-27 12:40:42.222699] Generating representation matrix complete!
+[info] [2020-08-27 12:40:43.241312] pandas.DataFrame.groupby
+[debug] [2020-08-27 12:40:43.254251] Evaluating... lambda x: x.groupby(by=['id', "''"])
+[debug] [2020-08-27 12:40:43.256005] Evaluating... lambda x: x.groupby(by=['id'])
+[debug] [2020-08-27 12:40:43.268558] Evaluating... lambda x: x.groupby(by=['id', 'host_id'])
+[debug] [2020-08-27 12:40:43.274429] Evaluating... lambda x: x.groupby(by=['id', 'longitude'])
+[debug] [2020-08-27 12:40:43.280334] Evaluating... lambda x: x.groupby(by=['id', 'minimum_nights'])
+[debug] [2020-08-27 12:40:43.286312] Evaluating... lambda x: x.groupby(by=['id', 'last_review'])
+[debug] [2020-08-27 12:40:43.296607] Evaluating... lambda x: x.groupby(by=['id', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:43.302296] Evaluating... lambda x: x.groupby(by=['id', 'input1'])
+[debug] [2020-08-27 12:40:43.303705] Evaluating... lambda x: x.groupby(by=['id', 'room_type'])
+[debug] [2020-08-27 12:40:43.312878] Evaluating... lambda x: x.groupby(by=['id', 'host_name'])
+[debug] [2020-08-27 12:40:43.323298] Evaluating... lambda x: x.groupby(by=['id', 'latitude'])
+[debug] [2020-08-27 12:40:43.329140] Evaluating... lambda x: x.groupby(by=['id', 'price'])
+[debug] [2020-08-27 12:40:43.334786] Evaluating... lambda x: x.groupby(by=['id', 'neighbourhood'])
+[debug] [2020-08-27 12:40:43.344408] Evaluating... lambda x: x.groupby(by=['id', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:43.353636] Evaluating... lambda x: x.groupby(by=['id', 'name'])
+[debug] [2020-08-27 12:40:43.363550] Evaluating... lambda x: x.groupby(by=['id', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:43.369294] Evaluating... lambda x: x.groupby(by=['id', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:43.374931] Evaluating... lambda x: x.groupby(by=['id', 'availability_365'])
+[debug] [2020-08-27 12:40:43.380549] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'room_type'])
+[debug] [2020-08-27 12:40:43.389357] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'room_type'])
+[debug] [2020-08-27 12:40:43.398242] Evaluating... lambda x: x.groupby(by=['host_name', 'room_type'])
+[debug] [2020-08-27 12:40:43.407958] Evaluating... lambda x: x.groupby(by=['last_review', 'room_type'])
+[debug] [2020-08-27 12:40:43.417818] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'room_type'])
+[debug] [2020-08-27 12:40:43.424920] Evaluating... lambda x: x.groupby(by=["''", 'room_type'])
+[debug] [2020-08-27 12:40:43.426236] Evaluating... lambda x: x.groupby(by=['host_id', 'room_type'])
+[debug] [2020-08-27 12:40:43.437057] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'room_type'])
+[debug] [2020-08-27 12:40:43.446446] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'room_type'])
+[debug] [2020-08-27 12:40:43.455729] Evaluating... lambda x: x.groupby(by=['input1', 'room_type'])
+[debug] [2020-08-27 12:40:43.457021] Evaluating... lambda x: x.groupby(by=['price', 'room_type'])
+[debug] [2020-08-27 12:40:43.466108] Evaluating... lambda x: x.groupby(by=['latitude', 'room_type'])
+[debug] [2020-08-27 12:40:43.474902] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'room_type'])
+[debug] [2020-08-27 12:40:43.484814] Evaluating... lambda x: x.groupby(by=['longitude', 'room_type'])
+[debug] [2020-08-27 12:40:43.493576] Evaluating... lambda x: x.groupby(by=['name', 'room_type'])
+[debug] [2020-08-27 12:40:43.503317] Evaluating... lambda x: x.groupby(by=['availability_365', 'room_type'])
+[debug] [2020-08-27 12:40:43.512437] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:43.521146] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'last_review'])
+[debug] [2020-08-27 12:40:43.530745] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'latitude'])
+[debug] [2020-08-27 12:40:43.539669] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'host_name'])
+[debug] [2020-08-27 12:40:43.549670] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'minimum_nights'])
+[debug] [2020-08-27 12:40:43.558546] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'input1'])
+[debug] [2020-08-27 12:40:43.560192] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'name'])
+[debug] [2020-08-27 12:40:43.569923] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'neighbourhood'])
+[debug] [2020-08-27 12:40:43.579860] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'longitude'])
+[debug] [2020-08-27 12:40:43.588605] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:43.597679] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'availability_365'])
+[debug] [2020-08-27 12:40:43.606799] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'id'])
+[debug] [2020-08-27 12:40:43.615927] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:43.625051] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'price'])
+[debug] [2020-08-27 12:40:43.634155] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', 'host_id'])
+[debug] [2020-08-27 12:40:43.643035] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'name'])
+[debug] [2020-08-27 12:40:43.651743] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'name'])
+[debug] [2020-08-27 12:40:43.661612] Evaluating... lambda x: x.groupby(by=['latitude', 'name'])
+[debug] [2020-08-27 12:40:43.671532] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'name'])
+[debug] [2020-08-27 12:40:43.681320] Evaluating... lambda x: x.groupby(by=['input1', 'name'])
+[debug] [2020-08-27 12:40:43.682650] Evaluating... lambda x: x.groupby(by=['host_id', 'name'])
+[debug] [2020-08-27 12:40:43.692308] Evaluating... lambda x: x.groupby(by=['availability_365', 'name'])
+[debug] [2020-08-27 12:40:43.701906] Evaluating... lambda x: x.groupby(by=['longitude', 'name'])
+[debug] [2020-08-27 12:40:43.711779] Evaluating... lambda x: x.groupby(by=["''", 'name'])
+[debug] [2020-08-27 12:40:43.713126] Evaluating... lambda x: x.groupby(by=['room_type', 'name'])
+[debug] [2020-08-27 12:40:43.722886] Evaluating... lambda x: x.groupby(by=['last_review', 'name'])
+[debug] [2020-08-27 12:40:43.733999] Evaluating... lambda x: x.groupby(by=['host_name', 'name'])
+[debug] [2020-08-27 12:40:43.745892] Evaluating... lambda x: x.groupby(by=['price', 'name'])
+[debug] [2020-08-27 12:40:43.755493] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'name'])
+[debug] [2020-08-27 12:40:43.764492] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'name'])
+[debug] [2020-08-27 12:40:43.775860] Evaluating... lambda x: x.groupby(by=['availability_365', 'last_review'])
+[debug] [2020-08-27 12:40:43.785078] Evaluating... lambda x: x.groupby(by=['availability_365', 'host_name'])
+[debug] [2020-08-27 12:40:43.794699] Evaluating... lambda x: x.groupby(by=['availability_365', 'price'])
+[debug] [2020-08-27 12:40:43.800609] Evaluating... lambda x: x.groupby(by=['availability_365', 'id'])
+[debug] [2020-08-27 12:40:43.806522] Evaluating... lambda x: x.groupby(by=['availability_365', 'input1'])
+[debug] [2020-08-27 12:40:43.807917] Evaluating... lambda x: x.groupby(by=['availability_365', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:43.813586] Evaluating... lambda x: x.groupby(by=['availability_365', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:43.819460] Evaluating... lambda x: x.groupby(by=['availability_365', 'latitude'])
+[debug] [2020-08-27 12:40:43.825392] Evaluating... lambda x: x.groupby(by=['availability_365', 'longitude'])
+[debug] [2020-08-27 12:40:43.831369] Evaluating... lambda x: x.groupby(by=['availability_365', 'minimum_nights'])
+[debug] [2020-08-27 12:40:43.837010] Evaluating... lambda x: x.groupby(by=['availability_365', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:43.842649] Evaluating... lambda x: x.groupby(by=['availability_365', 'neighbourhood'])
+[debug] [2020-08-27 12:40:43.851953] Evaluating... lambda x: x.groupby(by=['availability_365', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:43.861064] Evaluating... lambda x: x.groupby(by=['availability_365', 'host_id'])
+[debug] [2020-08-27 12:40:43.866789] Evaluating... lambda x: x.groupby(by=['last_review', 'longitude'])
+[debug] [2020-08-27 12:40:43.876107] Evaluating... lambda x: x.groupby(by=['input1', 'longitude'])
+[debug] [2020-08-27 12:40:43.877453] Evaluating... lambda x: x.groupby(by=["''", 'longitude'])
+[debug] [2020-08-27 12:40:43.878652] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'longitude'])
+[debug] [2020-08-27 12:40:43.884328] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'longitude'])
+[debug] [2020-08-27 12:40:43.893726] Evaluating... lambda x: x.groupby(by=['latitude', 'longitude'])
+[debug] [2020-08-27 12:40:43.899668] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'longitude'])
+[debug] [2020-08-27 12:40:43.905631] Evaluating... lambda x: x.groupby(by=['host_name', 'longitude'])
+[debug] [2020-08-27 12:40:43.915325] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'longitude'])
+[debug] [2020-08-27 12:40:43.921283] Evaluating... lambda x: x.groupby(by=['price', 'longitude'])
+[debug] [2020-08-27 12:40:43.927046] Evaluating... lambda x: x.groupby(by=['room_type', 'longitude'])
+[debug] [2020-08-27 12:40:43.935679] Evaluating... lambda x: x.groupby(by=['name', 'longitude'])
+[debug] [2020-08-27 12:40:43.945329] Evaluating... lambda x: x.groupby(by=['host_id', 'longitude'])
+[debug] [2020-08-27 12:40:43.951242] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'longitude'])
+[debug] [2020-08-27 12:40:43.957008] Evaluating... lambda x: x.groupby(by=['latitude', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:43.962856] Evaluating... lambda x: x.groupby(by=['latitude', 'id'])
+[debug] [2020-08-27 12:40:43.968834] Evaluating... lambda x: x.groupby(by=['latitude', 'host_id'])
+[debug] [2020-08-27 12:40:43.974837] Evaluating... lambda x: x.groupby(by=['latitude', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:43.980584] Evaluating... lambda x: x.groupby(by=['latitude', 'availability_365'])
+[debug] [2020-08-27 12:40:43.986516] Evaluating... lambda x: x.groupby(by=['latitude', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:43.992496] Evaluating... lambda x: x.groupby(by=['latitude', 'minimum_nights'])
+[debug] [2020-08-27 12:40:43.998479] Evaluating... lambda x: x.groupby(by=['latitude', 'last_review'])
+[debug] [2020-08-27 12:40:44.008065] Evaluating... lambda x: x.groupby(by=['latitude', 'input1'])
+[debug] [2020-08-27 12:40:44.009540] Evaluating... lambda x: x.groupby(by=['latitude', 'host_name'])
+[debug] [2020-08-27 12:40:44.019365] Evaluating... lambda x: x.groupby(by=['latitude', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.028369] Evaluating... lambda x: x.groupby(by=['latitude', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.038065] Evaluating... lambda x: x.groupby(by=['latitude', 'price'])
+[debug] [2020-08-27 12:40:44.044083] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.053509] Evaluating... lambda x: x.groupby(by=['host_name', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.063300] Evaluating... lambda x: x.groupby(by=['longitude', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.069080] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.074802] Evaluating... lambda x: x.groupby(by=['input1', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.076103] Evaluating... lambda x: x.groupby(by=["''", 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.077320] Evaluating... lambda x: x.groupby(by=['last_review', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.086438] Evaluating... lambda x: x.groupby(by=['price', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.092195] Evaluating... lambda x: x.groupby(by=['host_id', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.097888] Evaluating... lambda x: x.groupby(by=['room_type', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.106751] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.112725] Evaluating... lambda x: x.groupby(by=['name', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.122272] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'reviews_per_month'])
+[debug] [2020-08-27 12:40:44.127986] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'host_id'])
+[debug] [2020-08-27 12:40:44.133867] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:44.139776] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.148874] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'id'])
+[debug] [2020-08-27 12:40:44.154783] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'price'])
+[debug] [2020-08-27 12:40:44.160690] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'host_name'])
+[debug] [2020-08-27 12:40:44.170439] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'availability_365'])
+[debug] [2020-08-27 12:40:44.176334] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'last_review'])
+[debug] [2020-08-27 12:40:44.185772] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'input1'])
+[debug] [2020-08-27 12:40:44.187168] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.196556] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.202463] Evaluating... lambda x: x.groupby(by=['number_of_reviews', 'latitude'])
+[debug] [2020-08-27 12:40:44.208437] Evaluating... lambda x: x.groupby(by=['room_type', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.218282] Evaluating... lambda x: x.groupby(by=['host_name', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.229530] Evaluating... lambda x: x.groupby(by=['longitude', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.239191] Evaluating... lambda x: x.groupby(by=['host_id', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.248675] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.257163] Evaluating... lambda x: x.groupby(by=['price', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.266194] Evaluating... lambda x: x.groupby(by=['input1', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.267500] Evaluating... lambda x: x.groupby(by=["''", 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.268725] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.277478] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.287589] Evaluating... lambda x: x.groupby(by=['last_review', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.298666] Evaluating... lambda x: x.groupby(by=['name', 'neighbourhood'])
+[debug] [2020-08-27 12:40:44.310115] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'host_name'])
+[debug] [2020-08-27 12:40:44.319174] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'input1'])
+[debug] [2020-08-27 12:40:44.320633] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:44.326235] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.335304] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'id'])
+[debug] [2020-08-27 12:40:44.340998] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'last_review'])
+[debug] [2020-08-27 12:40:44.350011] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'availability_365'])
+[debug] [2020-08-27 12:40:44.355925] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:44.361818] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'host_id'])
+[debug] [2020-08-27 12:40:44.367702] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'price'])
+[debug] [2020-08-27 12:40:44.373606] Evaluating... lambda x: x.groupby(by=['minimum_nights', 'latitude'])
+[debug] [2020-08-27 12:40:44.379602] Evaluating... lambda x: x.groupby(by=['price', 'last_review'])
+[debug] [2020-08-27 12:40:44.388954] Evaluating... lambda x: x.groupby(by=['name', 'last_review'])
+[debug] [2020-08-27 12:40:44.400258] Evaluating... lambda x: x.groupby(by=['host_id', 'last_review'])
+[debug] [2020-08-27 12:40:44.409665] Evaluating... lambda x: x.groupby(by=["''", 'last_review'])
+[debug] [2020-08-27 12:40:44.411023] Evaluating... lambda x: x.groupby(by=['host_name', 'last_review'])
+[debug] [2020-08-27 12:40:44.422256] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'last_review'])
+[debug] [2020-08-27 12:40:44.430742] Evaluating... lambda x: x.groupby(by=['input1', 'last_review'])
+[debug] [2020-08-27 12:40:44.432037] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'last_review'])
+[debug] [2020-08-27 12:40:44.441556] Evaluating... lambda x: x.groupby(by=['longitude', 'last_review'])
+[debug] [2020-08-27 12:40:44.451183] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'last_review'])
+[debug] [2020-08-27 12:40:44.461901] Evaluating... lambda x: x.groupby(by=['room_type', 'last_review'])
+[debug] [2020-08-27 12:40:44.471822] Evaluating... lambda x: x.groupby(by=['room_type', 'price'])
+[debug] [2020-08-27 12:40:44.481020] Evaluating... lambda x: x.groupby(by=['room_type', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.488106] Evaluating... lambda x: x.groupby(by=['room_type', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:44.496956] Evaluating... lambda x: x.groupby(by=['room_type', 'host_id'])
+[debug] [2020-08-27 12:40:44.506075] Evaluating... lambda x: x.groupby(by=['room_type', 'input1'])
+[debug] [2020-08-27 12:40:44.507643] Evaluating... lambda x: x.groupby(by=['room_type', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.516715] Evaluating... lambda x: x.groupby(by=['room_type', 'host_name'])
+[debug] [2020-08-27 12:40:44.526678] Evaluating... lambda x: x.groupby(by=['room_type', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:44.535849] Evaluating... lambda x: x.groupby(by=['room_type', 'latitude'])
+[debug] [2020-08-27 12:40:44.544795] Evaluating... lambda x: x.groupby(by=['room_type', 'availability_365'])
+[debug] [2020-08-27 12:40:44.553938] Evaluating... lambda x: x.groupby(by=['room_type', 'id'])
+[debug] [2020-08-27 12:40:44.563118] Evaluating... lambda x: x.groupby(by=['host_id', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.569038] Evaluating... lambda x: x.groupby(by=['input1', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.570433] Evaluating... lambda x: x.groupby(by=['name', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.579164] Evaluating... lambda x: x.groupby(by=["''", 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.580464] Evaluating... lambda x: x.groupby(by=['last_review', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.589168] Evaluating... lambda x: x.groupby(by=['host_name', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.597930] Evaluating... lambda x: x.groupby(by=['price', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.603815] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.609729] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.615711] Evaluating... lambda x: x.groupby(by=['longitude', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.621711] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'minimum_nights'])
+[debug] [2020-08-27 12:40:44.630699] Evaluating... lambda x: x.groupby(by=["''", 'host_name'])
+[debug] [2020-08-27 12:40:44.632070] Evaluating... lambda x: x.groupby(by=["''", 'id'])
+[debug] [2020-08-27 12:40:44.633322] Evaluating... lambda x: x.groupby(by=["''", 'number_of_reviews'])
+[debug] [2020-08-27 12:40:44.634555] Evaluating... lambda x: x.groupby(by=['longitude', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:44.640526] Evaluating... lambda x: x.groupby(by=['longitude', 'host_id'])
+[debug] [2020-08-27 12:40:44.646528] Evaluating... lambda x: x.groupby(by=['longitude', 'host_name'])
+[debug] [2020-08-27 12:40:44.656545] Evaluating... lambda x: x.groupby(by=['longitude', 'id'])
+[debug] [2020-08-27 12:40:44.662575] Evaluating... lambda x: x.groupby(by=['longitude', 'availability_365'])
+[debug] [2020-08-27 12:40:44.668539] Evaluating... lambda x: x.groupby(by=['longitude', 'price'])
+[debug] [2020-08-27 12:40:44.674528] Evaluating... lambda x: x.groupby(by=['longitude', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.683537] Evaluating... lambda x: x.groupby(by=['longitude', 'latitude'])
+[debug] [2020-08-27 12:40:44.689511] Evaluating... lambda x: x.groupby(by=['longitude', 'input1'])
+[debug] [2020-08-27 12:40:44.691012] Evaluating... lambda x: x.groupby(by=['longitude', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:44.696977] Evaluating... lambda x: x.groupby(by=['host_id', 'latitude'])
+[debug] [2020-08-27 12:40:44.702978] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'latitude'])
+[debug] [2020-08-27 12:40:44.708948] Evaluating... lambda x: x.groupby(by=["''", 'latitude'])
+[debug] [2020-08-27 12:40:44.710332] Evaluating... lambda x: x.groupby(by=['price', 'latitude'])
+[debug] [2020-08-27 12:40:44.716254] Evaluating... lambda x: x.groupby(by=['input1', 'latitude'])
+[debug] [2020-08-27 12:40:44.717620] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'latitude'])
+[debug] [2020-08-27 12:40:44.723296] Evaluating... lambda x: x.groupby(by=['host_name', 'latitude'])
+[debug] [2020-08-27 12:40:44.732947] Evaluating... lambda x: x.groupby(by=['last_review', 'latitude'])
+[debug] [2020-08-27 12:40:44.742474] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'latitude'])
+[debug] [2020-08-27 12:40:44.751981] Evaluating... lambda x: x.groupby(by=['name', 'latitude'])
+[debug] [2020-08-27 12:40:44.761639] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'host_id'])
+[debug] [2020-08-27 12:40:44.767310] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'availability_365'])
+[debug] [2020-08-27 12:40:44.773159] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.782017] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'input1'])
+[debug] [2020-08-27 12:40:44.783454] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:44.789324] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'id'])
+[debug] [2020-08-27 12:40:44.795081] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'host_name'])
+[debug] [2020-08-27 12:40:44.803651] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', 'price'])
+[debug] [2020-08-27 12:40:44.809561] Evaluating... lambda x: x.groupby(by=['last_review', 'host_name'])
+[debug] [2020-08-27 12:40:44.820793] Evaluating... lambda x: x.groupby(by=['host_id', 'host_name'])
+[debug] [2020-08-27 12:40:44.830570] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'host_name'])
+[debug] [2020-08-27 12:40:44.841899] Evaluating... lambda x: x.groupby(by=['name', 'host_name'])
+[debug] [2020-08-27 12:40:44.853692] Evaluating... lambda x: x.groupby(by=['input1', 'host_name'])
+[debug] [2020-08-27 12:40:44.855067] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'host_name'])
+[debug] [2020-08-27 12:40:44.864889] Evaluating... lambda x: x.groupby(by=['price', 'host_name'])
+[debug] [2020-08-27 12:40:44.874476] Evaluating... lambda x: x.groupby(by=['host_name', 'availability_365'])
+[debug] [2020-08-27 12:40:44.884263] Evaluating... lambda x: x.groupby(by=['host_name', 'price'])
+[debug] [2020-08-27 12:40:44.893553] Evaluating... lambda x: x.groupby(by=['host_name', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:44.903492] Evaluating... lambda x: x.groupby(by=['host_name', 'host_id'])
+[debug] [2020-08-27 12:40:44.913477] Evaluating... lambda x: x.groupby(by=['host_name', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:44.923247] Evaluating... lambda x: x.groupby(by=['host_name', 'id'])
+[debug] [2020-08-27 12:40:44.932900] Evaluating... lambda x: x.groupby(by=['host_name', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:44.941739] Evaluating... lambda x: x.groupby(by=['host_name', 'input1'])
+[debug] [2020-08-27 12:40:44.943327] Evaluating... lambda x: x.groupby(by=['last_review', 'id'])
+[debug] [2020-08-27 12:40:44.953122] Evaluating... lambda x: x.groupby(by=['host_id', 'id'])
+[debug] [2020-08-27 12:40:44.958865] Evaluating... lambda x: x.groupby(by=['input1', 'id'])
+[debug] [2020-08-27 12:40:44.960325] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'id'])
+[debug] [2020-08-27 12:40:44.970050] Evaluating... lambda x: x.groupby(by=['name', 'id'])
+[debug] [2020-08-27 12:40:44.980029] Evaluating... lambda x: x.groupby(by=['price', 'id'])
+[debug] [2020-08-27 12:40:44.985924] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'id'])
+[debug] [2020-08-27 12:40:44.991702] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'availability_365'])
+[debug] [2020-08-27 12:40:44.997730] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'host_id'])
+[debug] [2020-08-27 12:40:45.003770] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.009786] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'price'])
+[debug] [2020-08-27 12:40:45.015786] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'input1'])
+[debug] [2020-08-27 12:40:45.017272] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.026264] Evaluating... lambda x: x.groupby(by=['reviews_per_month', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.032087] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'input1'])
+[debug] [2020-08-27 12:40:45.033763] Evaluating... lambda x: x.groupby(by=['name', 'input1'])
+[debug] [2020-08-27 12:40:45.035232] Evaluating... lambda x: x.groupby(by=["''", 'input1'])
+[debug] [2020-08-27 12:40:45.036474] Evaluating... lambda x: x.groupby(by=['last_review', 'input1'])
+[debug] [2020-08-27 12:40:45.037871] Evaluating... lambda x: x.groupby(by=['price', 'input1'])
+[debug] [2020-08-27 12:40:45.039180] Evaluating... lambda x: x.groupby(by=['host_id', 'input1'])
+[debug] [2020-08-27 12:40:45.040503] Evaluating... lambda x: x.groupby(by=['name', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.050392] Evaluating... lambda x: x.groupby(by=['name', 'host_id'])
+[debug] [2020-08-27 12:40:45.060578] Evaluating... lambda x: x.groupby(by=['name', 'price'])
+[debug] [2020-08-27 12:40:45.070188] Evaluating... lambda x: x.groupby(by=['name', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.079764] Evaluating... lambda x: x.groupby(by=['name', 'availability_365'])
+[debug] [2020-08-27 12:40:45.089306] Evaluating... lambda x: x.groupby(by=['name', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.098039] Evaluating... lambda x: x.groupby(by=['name', "''"])
+[debug] [2020-08-27 12:40:45.099665] Evaluating... lambda x: x.groupby(by=['last_review', 'availability_365'])
+[debug] [2020-08-27 12:40:45.109056] Evaluating... lambda x: x.groupby(by=['input1', 'availability_365'])
+[debug] [2020-08-27 12:40:45.110428] Evaluating... lambda x: x.groupby(by=["''", 'availability_365'])
+[debug] [2020-08-27 12:40:45.111686] Evaluating... lambda x: x.groupby(by=['host_id', 'availability_365'])
+[debug] [2020-08-27 12:40:45.117560] Evaluating... lambda x: x.groupby(by=['price', 'availability_365'])
+[debug] [2020-08-27 12:40:45.123475] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'availability_365'])
+[debug] [2020-08-27 12:40:45.132950] Evaluating... lambda x: x.groupby(by=["''", 'price'])
+[debug] [2020-08-27 12:40:45.134324] Evaluating... lambda x: x.groupby(by=["''", 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.135590] Evaluating... lambda x: x.groupby(by=["''", 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.136824] Evaluating... lambda x: x.groupby(by=["''", 'host_id'])
+[debug] [2020-08-27 12:40:45.138080] Evaluating... lambda x: x.groupby(by=['last_review', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.147564] Evaluating... lambda x: x.groupby(by=['last_review', 'host_id'])
+[debug] [2020-08-27 12:40:45.157259] Evaluating... lambda x: x.groupby(by=['price', 'host_id'])
+[debug] [2020-08-27 12:40:45.163013] Evaluating... lambda x: x.groupby(by=['input1', 'host_id'])
+[debug] [2020-08-27 12:40:45.164333] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'host_id'])
+[debug] [2020-08-27 12:40:45.174028] Evaluating... lambda x: x.groupby(by=['price', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.183141] Evaluating... lambda x: x.groupby(by=['price', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.189379] Evaluating... lambda x: x.groupby(by=['price', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.195320] Evaluating... lambda x: x.groupby(by=['price', "''"])
+[debug] [2020-08-27 12:40:45.196780] Evaluating... lambda x: x.groupby(by=['last_review', 'price'])
+[debug] [2020-08-27 12:40:45.206081] Evaluating... lambda x: x.groupby(by=['input1', 'price'])
+[debug] [2020-08-27 12:40:45.207484] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'price'])
+[debug] [2020-08-27 12:40:45.216586] Evaluating... lambda x: x.groupby(by=['host_id', 'price'])
+[debug] [2020-08-27 12:40:45.222550] Evaluating... lambda x: x.groupby(by=['host_id', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.228478] Evaluating... lambda x: x.groupby(by=['host_id', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.237618] Evaluating... lambda x: x.groupby(by=['host_id', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.243300] Evaluating... lambda x: x.groupby(by=['host_id', "''"])
+[debug] [2020-08-27 12:40:45.244742] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.253509] Evaluating... lambda x: x.groupby(by=['last_review', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.262283] Evaluating... lambda x: x.groupby(by=['input1', 'calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.263678] Evaluating... lambda x: x.groupby(by=['last_review', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.273373] Evaluating... lambda x: x.groupby(by=['last_review', "''"])
+[debug] [2020-08-27 12:40:45.274991] Evaluating... lambda x: x.groupby(by=['input1', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.276284] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'neighbourhood_group'])
+[debug] [2020-08-27 12:40:45.286060] Evaluating... lambda x: x.groupby(by=['input1', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.287472] Evaluating... lambda x: x.groupby(by=['input1', "''"])
+[debug] [2020-08-27 12:40:45.288739] Evaluating... lambda x: x.groupby(by=['neighbourhood', 'number_of_reviews'])
+[debug] [2020-08-27 12:40:45.298170] Evaluating... lambda x: x.groupby(by=['neighbourhood', "''"])
+[debug] [2020-08-27 12:40:45.299813] Evaluating... lambda x: x.groupby(by=['neighbourhood_group', "''"])
+[debug] [2020-08-27 12:40:45.301263] Evaluating... lambda x: x.groupby(by=['availability_365', "''"])
+[debug] [2020-08-27 12:40:45.302587] Evaluating... lambda x: x.groupby(by=['latitude', "''"])
+[debug] [2020-08-27 12:40:45.303945] Evaluating... lambda x: x.groupby(by=['number_of_reviews', "''"])
+[debug] [2020-08-27 12:40:45.305293] Evaluating... lambda x: x.groupby(by=['minimum_nights', "''"])
+[debug] [2020-08-27 12:40:45.306619] Evaluating... lambda x: x.groupby(by=['room_type', "''"])
+[debug] [2020-08-27 12:40:45.308032] Evaluating... lambda x: x.groupby(by=['longitude', "''"])
+[debug] [2020-08-27 12:40:45.309416] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count', "''"])
+[debug] [2020-08-27 12:40:45.310764] Evaluating... lambda x: x.groupby(by=['host_name', "''"])
+[debug] [2020-08-27 12:40:45.312207] Evaluating... lambda x: x.groupby(by=['reviews_per_month', "''"])
+[debug] [2020-08-27 12:40:45.313760] Evaluating... lambda x: x.groupby(by=['neighbourhood'])
+[debug] [2020-08-27 12:40:45.318748] Evaluating... lambda x: x.groupby(by=['input1'])
+[debug] [2020-08-27 12:40:45.319982] Evaluating... lambda x: x.groupby(by=['price'])
+[debug] [2020-08-27 12:40:45.324191] Evaluating... lambda x: x.groupby(by=['host_id'])
+[debug] [2020-08-27 12:40:45.328403] Evaluating... lambda x: x.groupby(by=['last_review'])
+[debug] [2020-08-27 12:40:45.333057] Evaluating... lambda x: x.groupby(by=['name'])
+[debug] [2020-08-27 12:40:45.337860] Evaluating... lambda x: x.groupby(by=['reviews_per_month'])
+[debug] [2020-08-27 12:40:45.341975] Evaluating... lambda x: x.groupby(by=['host_name'])
+[debug] [2020-08-27 12:40:45.346721] Evaluating... lambda x: x.groupby(by=['calculated_host_listings_count'])
+[debug] [2020-08-27 12:40:45.351229] Evaluating... lambda x: x.groupby(by=['minimum_nights'])
+[debug] [2020-08-27 12:40:45.355517] Evaluating... lambda x: x.groupby(by=['longitude'])
+[debug] [2020-08-27 12:40:45.359574] Evaluating... lambda x: x.groupby(by=['room_type'])
+[debug] [2020-08-27 12:40:45.364324] Evaluating... lambda x: x.groupby(by=['number_of_reviews'])
+[debug] [2020-08-27 12:40:45.368759] Evaluating... lambda x: x.groupby(by=['latitude'])
+[debug] [2020-08-27 12:40:45.373049] Evaluating... lambda x: x.groupby(by=['availability_365'])
+[debug] [2020-08-27 12:40:45.377310] Evaluating... lambda x: x.groupby(by=['neighbourhood_group'])
+`summarise()` ungrouping output (override with `.groups` argument)
+[info] [2020-08-27 12:40:45.393855] pandas.DataFrame.median
+[debug] [2020-08-27 12:40:45.403593] Evaluating... lambda x: x.median()[['median(price)', "''"]]
+[debug] [2020-08-27 12:40:45.407885] Evaluating... lambda x: x.median()[['median(price)']]
+[debug] [2020-08-27 12:40:45.411671] Evaluating... lambda x: x.median()[['median(price)', 'tmp_0']]
+[debug] [2020-08-27 12:40:45.415389] Evaluating... lambda x: x.median()[['median(price)', 'price']]
+[debug] [2020-08-27 12:40:45.419044] Evaluating... lambda x: x.median()[['median(price)', 'median = median(price)']]
+[debug] [2020-08-27 12:40:45.422735] Evaluating... lambda x: x.median()[['median(price)', 'median']]
+[debug] [2020-08-27 12:40:45.426452] Evaluating... lambda x: x.median()[['median', 'median(price)']]
+[debug] [2020-08-27 12:40:45.430129] Evaluating... lambda x: x.median()[["''", 'median(price)']]
+[debug] [2020-08-27 12:40:45.434096] Evaluating... lambda x: x.median()[['price', 'median(price)']]
+[debug] [2020-08-27 12:40:45.437758] Evaluating... lambda x: x.median()[['tmp_0', 'median(price)']]
+[debug] [2020-08-27 12:40:45.441445] Evaluating... lambda x: x.median()[['median = median(price)', 'median(price)']]
+[debug] [2020-08-27 12:40:45.445154] Evaluating... lambda x: x.median()[['median = median(price)', 'price']]
+[debug] [2020-08-27 12:40:45.448723] Evaluating... lambda x: x.median()[['median = median(price)', 'tmp_0']]
+[debug] [2020-08-27 12:40:45.452400] Evaluating... lambda x: x.median()[['median = median(price)', 'median']]
+[debug] [2020-08-27 12:40:45.456093] Evaluating... lambda x: x.median()[['median', 'price']]
+[debug] [2020-08-27 12:40:45.459676] Evaluating... lambda x: x.median()[["''", 'price']]
+[debug] [2020-08-27 12:40:45.463232] Evaluating... lambda x: x.median()[['tmp_0', 'price']]
+[debug] [2020-08-27 12:40:45.466798] Evaluating... lambda x: x.median()[['median', 'median = median(price)']]
+[debug] [2020-08-27 12:40:45.470483] Evaluating... lambda x: x.median()[['median', 'tmp_0']]
+[debug] [2020-08-27 12:40:45.474168] Evaluating... lambda x: x.median()[['price', 'tmp_0']]
+[debug] [2020-08-27 12:40:45.477744] Evaluating... lambda x: x.median()[["''", 'tmp_0']]
+[debug] [2020-08-27 12:40:45.481423] Evaluating... lambda x: x.median()[['tmp_0', 'median']]
+[debug] [2020-08-27 12:40:45.485320] Evaluating... lambda x: x.median()[['tmp_0', 'median = median(price)']]
+[debug] [2020-08-27 12:40:45.489088] Evaluating... lambda x: x.median()[["''", 'median']]
+[debug] [2020-08-27 12:40:45.492811] Evaluating... lambda x: x.median()[['price', 'median']]
+[debug] [2020-08-27 12:40:45.496438] Evaluating... lambda x: x.median()[["''", 'median = median(price)']]
+[debug] [2020-08-27 12:40:45.500151] Evaluating... lambda x: x.median()[['price', 'median = median(price)']]
+[debug] [2020-08-27 12:40:45.503777] Evaluating... lambda x: x.median()[['price', "''"]]
+[debug] [2020-08-27 12:40:45.507383] Evaluating... lambda x: x.median()[['median = median(price)', "''"]]
+[debug] [2020-08-27 12:40:45.511219] Evaluating... lambda x: x.median()[['median', "''"]]
+[debug] [2020-08-27 12:40:45.514956] Evaluating... lambda x: x.median()[['tmp_0', "''"]]
+[debug] [2020-08-27 12:40:45.518665] Evaluating... lambda x: x.median()[['price']]
+[info] [2020-08-27 12:40:45.531698] Success!
+[info] [2020-08-27 12:40:45.531826] {'group_by': ('pandas.DataFrame.groupby', 1), 'summarise': ('pandas.DataFrame.median', 2)}
+[info] [2020-08-27 12:40:45.531890] Avg Rank 1.0
+[info] [2020-08-27 12:40:45.532081] Synthesis time: 3.2329978942871094
+[info] [2020-08-27 12:40:45.532135] lambda x: x.groupby(by=['neighbourhood_group'])
+[info] [2020-08-27 12:40:45.532135] lambda x: x.median()[['price']]
